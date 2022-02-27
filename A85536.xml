@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A complaint to the Lord Protector, by Thomas Grantham, Minister of Waddington, near Lincoln. Concerning the unjust, and illegal ejecting of miserable ministers. These are to be distributed by the author, professor of the speedy way of teaching the Hebrew, Greek and Latine tongues, living at Mr. Martins in the great Old Bayly, near the Ship.</title>
+            <author>Grantham, Thomas, d. 1664.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85536</idno>
+            <idno type="STC">Wing G1551</idno>
+            <idno type="STC">Thomason E1710_2</idno>
+            <idno type="STC">ESTC R209574</idno>
+            <idno type="EEBO-CITATION">99868442</idno>
+            <idno type="PROQUEST">99868442</idno>
+            <idno type="VID">170293</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85536)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170293)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 213:E1710[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A complaint to the Lord Protector, by Thomas Grantham, Minister of Waddington, near Lincoln. Concerning the unjust, and illegal ejecting of miserable ministers. These are to be distributed by the author, professor of the speedy way of teaching the Hebrew, Greek and Latine tongues, living at Mr. Martins in the great Old Bayly, near the Ship.</title>
+                  <author>Grantham, Thomas, d. 1664.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>With horizontal chain lines.</note>
+                  <note>Annotation on Thomason copy: "June 25, 1656".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clergy --  Legal status, laws, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170293:1" rendition="simple:additions"/>
+            <p>A Complaint <hi>TO THE Lord Protector,</hi>
+            </p>
+            <p>By THOMAS GRANTHAM, Miniſter of <hi>Waddington,</hi> near <hi>LINCOLN.</hi>
+            </p>
+            <p>Concerning the unjuſt, and illegal ejecting of miſerable MINISTERS.</p>
+            <p>Theſe are to be diſtributed by the Author, Profeſſor of the ſpee<g ref="char:EOLhyphen"/>dy way of teaching the Hebrew, Greek and Latine tongues, living at Mr. <hi>Martins</hi> in the great Old Bayly, near the Ship.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="2" facs="tcp:170293:2"/>
+            <head>The Complaint of <hi>THOMAS GRANTHAM,</hi> Minister of <hi>Waddington.</hi>
+            </head>
+            <p>IN the greateſt Perſecu<g ref="char:EOLhyphen"/>tions, the <hi>Chriſtians</hi> ever ſet forth their <hi>Apologies;</hi> look upon <hi>Juſtin Mar<g ref="char:EOLhyphen"/>tyrs</hi> Apologie for the Chri<g ref="char:EOLhyphen"/>ſtians, look upon <hi>Jewels</hi> Apo<g ref="char:EOLhyphen"/>logie for the Church of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> And he that will not hear the Oppreſſed com<g ref="char:EOLhyphen"/>plain, is worſe then that un<g ref="char:EOLhyphen"/>juſt Judge, that neither fear<g ref="char:EOLhyphen"/>ed God, nor reverenced man;
+<pb n="3" facs="tcp:170293:2"/>
+It was lawfull amongſt the <hi>Romans,</hi> if a man was unjuſt<g ref="char:EOLhyphen"/>ly dealt withall, to Appeal to <hi>Caeſar;</hi> The great <hi>Turke</hi> walkes once a moneth in a certaine place to heare any man complain of injuſtice done to him, and he is ſure to have ſatisfaction: <hi>Solomon</hi> himſelf was much given to do Juſtice to particulars, wit<g ref="char:EOLhyphen"/>neſs that Caſe of the two Women ſtriving for the Childe, and the glory of his Throne of Juſtice, ſh<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ws that he reſorted to it, what ſhould I ſpeak of <hi>Moſes,</hi> when he ſate from morning to night judg<g ref="char:EOLhyphen"/>of
+<pb n="4" facs="tcp:170293:3"/>
+cauſes; and <hi>Auguſtus, Caeſar</hi> was ſo given to it, that <hi>Ovid</hi> wonders he could be at leiſur to read a little <hi>Poem</hi> of his; <hi>Horace</hi> ſets him out highly in this kinde, <hi>Qvum tot ſuſti<g ref="char:EOLhyphen"/>neas ac tanta negotia ſolus, lib. 2. Ep.</hi> 1. What ſhould I ſpeak further, Juſtice is an Attri<g ref="char:EOLhyphen"/>bute of God, and Mercy is a higher Attribute; for al<g ref="char:EOLhyphen"/>though all Gods Attributes are equal in themſelves, <hi>where Juſtice hath her Thouſands, Mercy hath her ten Thouſands; he puniſheth the faults of the Fathers to the third and fourth generation of the Children of
+<pb n="5" facs="tcp:170293:3"/>
+thoſe that hate him, but ſhews Mercy unto thouſands of thoſe that love him and keep his Com<g ref="char:EOLhyphen"/>mandements;</hi> Mercy then is the higheſt Attribute in God; And thrice happy are we who have a Ruler whoſe Name implies that Attribute; Whence is Mercy expected to come, but from a PRO<g ref="char:EOLhyphen"/>TECTOR? And indeed it hath come unto us, and no queſtion but will continue. That we may all ſay as <hi>Ter<g ref="char:EOLhyphen"/>tullus</hi> the Oratour ſaid, <hi>Act. 20. verſ. 2. Seeing that by thee wee enjoy great quietneſs, and that very worthy deeds are done
+<pb n="6" facs="tcp:170293:4"/>
+in this Nation by thy Provi<g ref="char:EOLhyphen"/>dence, &amp;c.</hi>
+            </p>
+            <p>There is nothing grieves a man more than a falſe ac<g ref="char:EOLhyphen"/>cuſation laid upon him; but for an innocent man to con<g ref="char:EOLhyphen"/>tinue all his life time under the burden of it, and to let a Knave, nay rather a Devill, (for he is called <hi>the accuſer of the brethren)</hi> to go away vi<g ref="char:EOLhyphen"/>ctorious and bragging over the ruine of a man, what pa<g ref="char:EOLhyphen"/>tience can beare it? <hi>Actum eſt de homine quando actum est de nomine;</hi> A man in an ill <hi>name</hi> is half hang'd.</p>
+            <p>The Caſe is thus, There
+<pb n="7" facs="tcp:170293:4"/>
+came two or three ignorant lying men of my Pariſh to the Commiſſioners, and ſaid I was inſufficient for the Mi<g ref="char:EOLhyphen"/>niſtery; there was no Oath given, the Commiſſioners without any tryall of me, e<g ref="char:EOLhyphen"/>jected me; at my next ſum<g ref="char:EOLhyphen"/>mons, ſo ſoon as they read the Article to me, I deſired to be tryed: without any Try<g ref="char:EOLhyphen"/>all they ejected me; The Or<g ref="char:EOLhyphen"/>dinance runs thus, <hi>There muſt be five Commiſſioners at the leaſt; and five Miniſters at leaſt; and if upon Examination or proof made upon Oath, it ſhall appear, and be declared un<g ref="char:EOLhyphen"/>der</hi>
+               <pb n="8" facs="tcp:170293:5"/>
+the hands of the ſaid Commiſſioners, or Miniſters; who ſhall be preſent at ſuch examination or proof, that the Miniſter or Schoolmaſter is ignorant or inſufficient, then to be ejected; it is repea<g ref="char:EOLhyphen"/>ted often that five Miniſters ſhould be there at leaſt; now there was never a Miniſter there preſent, and the five Commiſſioners differed, but let them all agree, there muſt be five Miniſters at leaſt, and <hi>I</hi> deſire but the Oaths of theſe five Commiſſioners preſent; now in this caſe, I think it neceſſary to ſet
+<pb n="9" facs="tcp:170293:5"/>
+down the names of theſe five Commiſſioners, Mr: <hi>Harvey</hi> of <hi>Lincoln</hi> an Attorney, and Sequeſtrator for <hi>Lincolnſhire</hi> when time was, the Major of <hi>Boston,</hi> Mr. <hi>Whiting</hi> the Chair<g ref="char:EOLunhyphen"/>man for this purpoſe, <hi>I</hi> ſhould have named him ſirſt but only <hi>I</hi> ſaw him relye much upon the Attornies diſcretion, Mr: <hi>Yarborough,</hi> Capt: <hi>Tompſon,</hi> Capt: <hi>Hart:</hi> Now Mr: <hi>Harvey</hi> received a great ſumme of money of my Pariſh ſome years before this Commisſion came down to put me and my Cu<g ref="char:EOLhyphen"/>rate out; and upon this ſcore
+<pb n="10" facs="tcp:170293:6"/>
+               <hi>I</hi> except againſt him; <hi>I</hi> muſt needs be ſhort, and ſo <hi>I</hi> bun<g ref="char:EOLhyphen"/>dle up all their cruelties as quick as <hi>I</hi> can. Before ever they call'd me to tryal, they took all my profits of Hay, and corn, for that was the time the fitteſt for them to begin; <hi>I</hi> was eighteen weeks after that before <hi>I</hi> was eje<g ref="char:EOLhyphen"/>cted; they left me not one farthing to maintain me all this while; now there is two things ſticks in my ſtomach; firſt to have my goods taken away before <hi>I</hi> be proved to be guilty; ſecondly, when <hi>I</hi> come to my tryal, to be put
+<pb n="11" facs="tcp:170293:6"/>
+out without any. Tryall or Examination at all; which is plum againſt the Ordi<g ref="char:EOLhyphen"/>nance; As they took my <hi>Tenths;</hi> take you but notice of the tenth part of their cruelties; they ſummoned me to <hi>Sleeford</hi> in <hi>Lincolnſhire,</hi> when my Pariſh was in the Libertie of <hi>Lincolne,</hi> but two miles from my Perſonage at <hi>Waddington,</hi> and forced me to ride thirteen or fourteen miles, and to be there at eight of the Clock in the morning, and ſay two or three dayes, and have never a word ſaid to me: All this
+<pb n="12" facs="tcp:170293:7"/>
+while; they knew I had no money, nor a bit of bread to eate, nor drop of beer to drink, nor bed to lie on; all the relief that I had, was from a very poor Alehouſe; and my enemies did ſtrive to dry up that little ſpring, to ſtarve me, or put me to flight.</p>
+            <p>Take a little of the witneſ<g ref="char:EOLhyphen"/>ſes, one being ſo poor a man, that he could not get to be a Souldier, &amp; was but an Inne<g ref="char:EOLhyphen"/>mate lately come to Town; the other confeſſed he went to ſpeak againſt me in heat of blood, becauſe <hi>I</hi> would not take ſuch a one for my
+<pb n="13" facs="tcp:170293:7"/>
+Curate; and he being told how he was bred from a boy to be a Coachman to my Lady <hi>Grantham,</hi> and being charged of <hi>Ingratitude,</hi> he fell ſo mad, that he openly profeſſed himſelf ſorry for what he had done: there was another that would of<g ref="char:EOLhyphen"/>ten come to his Wife, and ſay, Wife let me cut thy throat, for now the evill ſpi<g ref="char:EOLhyphen"/>rit is upon me, and I muſt do it whether <hi>I</hi> will or no; and this he did very often; be<g ref="char:EOLhyphen"/>ſides ſtranger things that I will not now ſpeake of: to ſpeak further of the Cruelty
+<pb n="14" facs="tcp:170293:8"/>
+of theſe five Commiſſioners, and ſome of the dreggs of of my Pariſh: I forbeare at this time to do it; becauſe that I will not ſpot this Pa<g ref="char:EOLhyphen"/>per, which I dedicate to my Lord Protector, onely let me end with this as <hi>I</hi> began, My Lord Protector hath found the hand and finger of God, in Gods Mercy of his deli<g ref="char:EOLhyphen"/>verance: and Gods finger, when he pointed him out to thoſe that ſought his ruine: <hi>I</hi> deſire onely a faire tryall and proof againſt me, and not to be hang'd untill I be tryed.</p>
+            <p>
+               <pb n="15" facs="tcp:170293:8"/>
+Any man may gueſs, that I can write a volume of this; but <hi>I</hi> end now in brief, and will be bold to ſay, That thoſe men ſhall be more ex<g ref="char:EOLhyphen"/>cuſable before God &amp; man; who have ſought my Lord Protectors life, than theſe men who do Tyrannize un<g ref="char:EOLhyphen"/>der him, and do ſcratch and bite, and tear and worrie the lives &amp; Eſtates of his peace<g ref="char:EOLhyphen"/>able Subjects; for God and man will defend him from treachery; but it was never known that oppreſſing hun<g ref="char:EOLhyphen"/>gry barking, ſharking, hol<g ref="char:EOLhyphen"/>low bellyed Committee<g ref="char:EOLhyphen"/>men;
+<pb n="16" facs="tcp:170293:9"/>
+of whom Pulpit and Plow hath complained of to every Government, that they brought ruine to it; Let them take notice but of one thing; it is in Gods Law, <hi>Thou ſhalt not be an Informer;</hi> and if there be a neceſſitie of ſuch Vermin, yet be ſure to cre<g ref="char:EOLhyphen"/>dit them as little as you can. If any thing can be proved otherwiſe, I ſhall think my ſelf worthy of the hardeſt cenſure; <hi>I</hi> have juſt now done, and let them take this for the firſt Al<g ref="char:EOLhyphen"/>larm.</p>
+            <closer>Gloria Deo in Excelſis.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
